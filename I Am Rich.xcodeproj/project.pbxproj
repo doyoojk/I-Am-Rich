@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		339D10A32848C56B00AF2B43 /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		339D10A32848C56B00AF2B43 /* I Am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		339D10A62848C56B00AF2B43 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		339D10A82848C56B00AF2B43 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		339D10AA2848C56B00AF2B43 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		339D10A42848C56B00AF2B43 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				339D10A32848C56B00AF2B43 /* I am Rich.app */,
+				339D10A32848C56B00AF2B43 /* I Am Rich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		339D10A22848C56B00AF2B43 /* I am Rich */ = {
+		339D10A22848C56B00AF2B43 /* I Am Rich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 339D10B72848C56C00AF2B43 /* Build configuration list for PBXNativeTarget "I am Rich" */;
+			buildConfigurationList = 339D10B72848C56C00AF2B43 /* Build configuration list for PBXNativeTarget "I Am Rich" */;
 			buildPhases = (
 				339D109F2848C56B00AF2B43 /* Sources */,
 				339D10A02848C56B00AF2B43 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "I am Rich";
+			name = "I Am Rich";
 			productName = "I am Rich";
-			productReference = 339D10A32848C56B00AF2B43 /* I am Rich.app */;
+			productReference = 339D10A32848C56B00AF2B43 /* I Am Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 339D109E2848C56B00AF2B43 /* Build configuration list for PBXProject "I am Rich" */;
+			buildConfigurationList = 339D109E2848C56B00AF2B43 /* Build configuration list for PBXProject "I Am Rich" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				339D10A22848C56B00AF2B43 /* I am Rich */,
+				339D10A22848C56B00AF2B43 /* I Am Rich */,
 			);
 		};
 /* End PBXProject section */
@@ -289,6 +289,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 859KP9VMQ9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -317,6 +318,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 859KP9VMQ9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -341,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		339D109E2848C56B00AF2B43 /* Build configuration list for PBXProject "I am Rich" */ = {
+		339D109E2848C56B00AF2B43 /* Build configuration list for PBXProject "I Am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				339D10B52848C56C00AF2B43 /* Debug */,
@@ -350,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		339D10B72848C56C00AF2B43 /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
+		339D10B72848C56C00AF2B43 /* Build configuration list for PBXNativeTarget "I Am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				339D10B82848C56C00AF2B43 /* Debug */,
